@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="DoctorCare" src=".github/preview.jpg" width="100%">
+  <img alt="DoctorCare" src="./preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
