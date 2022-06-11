@@ -33,4 +33,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 durante o NLW Return da Rocketseat!
+Feito com 💜 durante o NLW Return da Rocketseat.
